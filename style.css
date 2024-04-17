@@ -1,1 +1,18 @@
-.container_ botão {background-color:blue;background-color: white;display: block;height: 100vh;display: block;}
+:root{
+
+      --branco-color :white;
+      --cinza-secundario: gray;
+      --botao-azul:blue;
+  --cord-fundo: black;
+}
+
+body{
+
+       background-color: black;
+       color: white;
+       font-size: 16px;
+       font-weight: 400;
+  {
+
+.principal{
+     background-color: 
